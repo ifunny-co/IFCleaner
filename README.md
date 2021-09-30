@@ -9,7 +9,7 @@
 > `2852c9fce0a87c70a46d4c7e9a044778d81891123d7b4f39317b9f025d907012`
 
 ## How do I download!?!?!
-> Check the releases tab [located here](https://github.com/ifunny-co/ifunny-cleaner/releases)
+> Check the releases tab [located here](https://github.com/ifunny-co/ifunny-cleaner/releases), then click the version you want to download, then click assets, then click IFCleaner.apk
 
 ## What is IFcleaner?
 
